@@ -6,12 +6,12 @@ Middleman Compass Haml (Uhu!) Boilerplate Bootstrap Sass Template
 gem install middleman --pre
 
 ```bash
-git clone git://github.com/ezYZ/middleman-template-yz.git
-mv middleman-template-yz/yz/ ~/.middleman/
+git clone git://github.com/theblacksmithhq/chubbs.git
+mv chubbs/chubbs ~/.middleman/
 ```
 
 Then:
 
 ```bash
-middleman init my-new-project --template=yz
+middleman init my-new-project --template=chubbs
 ```
