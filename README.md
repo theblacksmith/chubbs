@@ -7,7 +7,7 @@ gem install middleman --pre
 
 ```bash
 git clone git://github.com/theblacksmith/chubbs.git
-mv chubbs/chubbs ~/.middleman/
+mv chubbs/chubbs ~/.middleman/chubbs
 ```
 
 Then:
