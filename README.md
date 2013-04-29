@@ -6,7 +6,7 @@ Middleman Compass Haml (Uhu!) Boilerplate Bootstrap Sass Template
 gem install middleman --pre
 
 ```bash
-git clone git://github.com/theblacksmithhq/chubbs.git
+git clone git://github.com/theblacksmith/chubbs.git
 mv chubbs/chubbs ~/.middleman/
 ```
 
