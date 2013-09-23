@@ -15,3 +15,7 @@ Then:
 ```bash
 middleman init my-new-project --template=chubbs
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theblacksmith/chubbs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
