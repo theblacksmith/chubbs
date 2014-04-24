@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem "bootstrap-sass", "~>2.0.4"
 gem "middleman", "~>3.0.0.rc.3"
